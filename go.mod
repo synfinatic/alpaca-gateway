@@ -13,7 +13,7 @@ require (
 	github.com/sirupsen/logrus v1.9.3
 	github.com/stretchr/testify v1.9.0
 	golang.org/x/image v0.18.0 // indirect; security
-	golang.org/x/sys v0.25.0
+	golang.org/x/sys v0.28.0
 	golang.org/x/text v0.16.0 // indirect; security
 )
 
